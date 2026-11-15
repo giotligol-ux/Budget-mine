@@ -1,1 +1,1 @@
-{"name":"Budget Mio — Spese e risparmi","short_name":"Budget Mio","description":"Un budget personale per iPhone","start_url":"./","scope":"./","display":"standalone","background_color":"#f5f7f7","theme_color":"#172c3b","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"Budget Mine","short_name":"Budget Mine","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f6f6","theme_color":"#172f40","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
